@@ -11,7 +11,7 @@ var data = [{
     
   }]
   
-  var links = ['https://sad-golick-e4b00c.netlify.com/', 'https://sad-golick-e4b00c.netlify.com/', 'https://sad-golick-e4b00c.netlify.com/'];
+  var links = ['http://goofy-saha-75dfc9.netlify.com/', 'http://goofy-saha-75dfc9.netlify.com/', 'http://goofy-saha-75dfc9.netlify.com/'];
   
   var layout = {
     title: 'Perth Suburbs',
